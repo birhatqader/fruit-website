@@ -83,7 +83,7 @@ button {
   outline: none;
 }
 
-h2, h3, h4 {
+ h2, h3, h4 {
   color: var(--title-color);
   font-weight: var(--font-medium);
   line-height: 100%;
@@ -1053,6 +1053,16 @@ p.ss {
   color: #555; /* Optional: change text color */
   color: black;
 }
+
 .whatsappp{
-  color: black;
+  color: rgb(8, 126, 8);
+  font-weight: bold;
+}
+
+.whatsapp{
+  color: rgb(8, 126, 8);
+}
+
+.emaill{
+  color:rgb(8, 126, 8) ;
 }
